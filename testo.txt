@@ -1,0 +1,7 @@
+hola
+adios
+
+git status
+git add ...
+git add --all
+clear
